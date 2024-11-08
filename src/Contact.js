@@ -22,7 +22,7 @@ import "./App.css";
   </div>
 
   <h3>Contact Form</h3>
-  <form action="#" method="POST">
+  <form action="https://formspree.io/f/xwpkoyyj" method="POST">
     <label for="name">Name:</label>
     <input type="text" id="name" name="name" required />
 
